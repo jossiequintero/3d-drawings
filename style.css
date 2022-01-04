@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {}
+
+.title {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.title span {
+    font-size: 40px;
+    padding: 30px;
+    border: 1px solid black;
+    border-radius: 60%;
+    -webkit-border-radius: 60%;
+    -moz-border-radius: 60%;
+    -ms-border-radius: 60%;
+    -o-border-radius: 60%;
+}
+
+.main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.canvas {
+    background-color: rgb(223, 226, 226);
+}
